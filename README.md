@@ -1,4 +1,4 @@
-**Prueba Técnica - Gestión de Branded Content**
+**Gestión de Branded Content**
 
 --- 
 
